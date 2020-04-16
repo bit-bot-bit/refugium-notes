@@ -1,4 +1,5 @@
 # Zul'Gurub
+Author - Shammatime - April 16th 2020
 
 ## ZG Notes
 
@@ -66,9 +67,3 @@ Ghaz (optional)
 * Watch for blood siphon, get a son of Hakkar pulled to raid, kill it and dance in poop for the nasty blood (do this b4 the call) and he will take dmg and not heal. 
 * Watch for corrupted blood (COVID-19’s precusor) and for his mind control and insanity (you deal more4 dmg dough).
 * At 10% he’ll enrage and burn he ass.
-
-
-I hope you all appreciate this and it helps us faceroll thru ZG. 
-
-
--Shammatime
