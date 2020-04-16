@@ -60,7 +60,7 @@ Ghaz (optional)
 * He has a mind control totem and healing totems, focus them down each time they spawn.
 * He will randomly tele a raid member into the blood pool full of skeles get out of pit and have a mage or warlock watch the pit to constantly aoe the skeles down.
 * He will also hex the tank so dispell unless you have Mooscles or Taco.
-* Whoever has delusions of Jin’do (DO NOT DECURSE THIS!!) is on shade watch and needs to kill them.
+* Whoever has delusions of Jin’do **(DO NOT DECURSE THIS!!)** is on shade watch and needs to kill them.
 
 
 ## Hakkar
